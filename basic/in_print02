@@ -1,0 +1,5 @@
+#input_print
+#Q. str print -- 기본적으로 input으로 받아오면 str 아닌가?
+
+str = input()
+print(str, end=" ")

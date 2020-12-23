@@ -1,0 +1,9 @@
+#20.12.23
+#get ascii code
+#ascii to num : ord(a)
+#num to ascii : chr(a)
+
+
+#문자열로 받기 str(input())
+a,b = input().split()
+print(b,a)

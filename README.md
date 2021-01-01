@@ -8,5 +8,6 @@
 1. Input-Output
   - a.zfill(3) # a의 문자를 n개로 만듦 ('2'-> '002')
   - format(a,'03') # a가 정수 일 경우 (2 -> 002)
-
+  - input().split(".")
+  - map(str,input().split(".")) # ?? map??
 

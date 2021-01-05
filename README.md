@@ -11,4 +11,10 @@
   - input().split(".")
   - y,m,d = map(str,input().split(".")) # ?? map??
   - dates = list(map(int,input().split("."))
+  - print("%o" %a) #int -> octal(8진수)
+
+
+Q. i don't need to care variable size?
+As "Python allow you to only take care about variable name and ignore it's
+size because pyhton **dynamicly allocate** it so what's the limit in the allocated size in the memory" ??
 

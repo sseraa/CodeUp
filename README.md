@@ -12,6 +12,8 @@
   - y,m,d = map(str,input().split(".")) # ?? map??
   - dates = list(map(int,input().split("."))
   - print("%o" %a) #int -> octal(8진수)
+    == format(a, 'x') == oct(a)
+  - b = hex(a) #integer to hex  <----> int(b,16) #hex to int
 
 
 Q. i don't need to care variable size?

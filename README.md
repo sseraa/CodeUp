@@ -5,7 +5,7 @@
 # 자주 헷갈리는 문법 PYTHON GRAMMERS :grimacing:
 <br>
 
-1. Input-Output
+1. Basic(In-Output)
   - a.zfill(3) # a의 문자를 n개로 만듦 ('2'-> '002')
   - format(a,'03') # a가 정수 일 경우 (2 -> 002)
   - input().split(".")
@@ -15,7 +15,9 @@
     == format(a, 'x') == oct(a)
   - b = hex(a) #integer to hex  <----> int(b,16) #hex to int (b must to be str)
     - int('11',2)#2진수 11 to 10진수
-
+  - divmod(a,b) --> return tuple
+    divmod(a,b)[0] == a // b
+    divmod(a,b)[1] == a % b
 
 <br>
 **Knowledge** <br>

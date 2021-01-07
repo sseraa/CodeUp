@@ -19,19 +19,14 @@
 
 <br>
 **Knowledge**
-'''
-Python 수치자료형 범위 @출처:https://joochang.tistory.com/47
-1.int(32bit)
-  (-2147483648 ~2147483647)
-2. long( infinite) ; as long as memory allowing
-3. float(64bit)
-  (10*E-308 ~ 10*E308, 유효 15자리)
-4. complex(실수부,허수부 각가 64bit)
-  (10*E-308 ~ 10*E308, 유효 15자리)
-* 
-32-bit: the value will be 2^31 – 1, i.e. 2147483647
-64-bit: the value will be 2^63 – 1, i.e. 9223372036854775807
-'''
+1. Python 수치자료형 범위 @출처:https://joochang.tistory.com/47
+  1)int(32bit) : (-2147483648 ~2147483647)
+  2) long( infinite) ; as long as memory allowing
+  3) float(64bit) : (10*E-308 ~ 10*E308, 유효 15자리)
+  4) complex(실수부,허수부 각가 64bit) : (10*E-308 ~ 10*E308, 유효 15자리)
+  
+  - 32-bit: the value will be 2^31 – 1, i.e. 2147483647
+  - 64-bit: the value will be 2^63 – 1, i.e. 9223372036854775807
 
 <br>
 

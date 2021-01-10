@@ -18,6 +18,11 @@
   - divmod(a,b) --> return tuple
     divmod(a,b)[0] == a // b
     divmod(a,b)[1] == a % b
+  - bitwise operater <br>
+    : ~(bitwise not), &(bitwise and), |(bitwise or), ^(bitwise xor), <<(bitwise left shift), >>(bitwise right shift)
+    - << : a<<n : return a X 2**n
+    - Exclusive or : If the bits are different, XOR outputs 1.
+    - Bitswise and : using when two computer send their date each other, to check whether they are in same network. +masking 연산
 
 <br>
 **Knowledge** <br>
